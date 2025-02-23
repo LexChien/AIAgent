@@ -1,5 +1,12 @@
 # AIAgent
-AIAgent is an all-in-one AI integration project that connects multiple AI APIs, including Grok, Gemini, ChatGPT, and Copilot. This repository aims to provide a unified interface to interact with these models seamlessly, making AI-powered development more efficient and accessible.
+
+## Description
+AIAgent is an all-in-one AI integration project that connects multiple AI APIs, including **Grok, Gemini, ChatGPT, and Copilot**. This repository aims to provide a unified interface to interact with these models seamlessly, making AI-powered development more efficient and accessible.
+
+## Model Versions
+- **ChatGPT**: gpt-4o
+- **Gemini**: gemini-2.0 Flash
+- **Grok**: grok-2
 
 ## Features
 - Unified API wrapper for **Grok, Gemini, ChatGPT, and Copilot**.
@@ -41,3 +48,23 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries, reach out via GitHub Issues or email `Lex@xsoin.com`.
 
+## MIT License
+Copyright (c) 2025 Lex Chien
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
